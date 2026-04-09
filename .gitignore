@@ -1,0 +1,26 @@
+*.md
+
+# Maven
+target/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Environment / secrets
+.env
+
+# Docker
+*.tar
+
+# Logs
+logs/
